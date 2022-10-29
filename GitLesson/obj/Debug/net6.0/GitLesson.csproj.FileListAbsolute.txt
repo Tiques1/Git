@@ -1,0 +1,15 @@
+D:\vs\GitLesson\GitLesson\bin\Debug\net6.0\GitLesson.exe
+D:\vs\GitLesson\GitLesson\bin\Debug\net6.0\GitLesson.deps.json
+D:\vs\GitLesson\GitLesson\bin\Debug\net6.0\GitLesson.runtimeconfig.json
+D:\vs\GitLesson\GitLesson\bin\Debug\net6.0\GitLesson.dll
+D:\vs\GitLesson\GitLesson\bin\Debug\net6.0\GitLesson.pdb
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.csproj.AssemblyReference.cache
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.AssemblyInfoInputs.cache
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.AssemblyInfo.cs
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.csproj.CoreCompileInputs.cache
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.dll
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\refint\GitLesson.dll
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.pdb
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\GitLesson.genruntimeconfig.cache
+D:\vs\GitLesson\GitLesson\obj\Debug\net6.0\ref\GitLesson.dll
